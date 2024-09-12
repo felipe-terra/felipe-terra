@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="display: flex">
+<div style="display: inline_block">
  👻 Since: 2024
  🤖 Currently working on Laravel
 </div>
