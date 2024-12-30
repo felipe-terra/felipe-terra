@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
  👻 Since: 2024 <br>
- 🤖 XP in Laravel
+ 🤖 XP in Laravel <br>
  ✏️ Working with JS!
 
 </div>
